@@ -1,4 +1,4 @@
-# 🦆 My Hunter
+# My Hunter
 
 A pixel-art duck shooting game written in **C** with **CSFML**, made for the Epitech `G-MUL-100` module.
 Ducks fly across a futuristic night sky: shoot them before they escape!
